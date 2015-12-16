@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CJP Economy/CJP Economy.iml" filepath="$PROJECT_DIR$/CJP Economy/CJP Economy.iml" />
       <module fileurl="file://$PROJECT_DIR$/CJPStudios.iml" filepath="$PROJECT_DIR$/CJPStudios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EndPrisim/EndPrisim.iml" filepath="$PROJECT_DIR$/EndPrisim/EndPrisim.iml" />
     </modules>
   </component>
 </project>
